@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+*.xlsx
+*.xls
+*.pdf
+*.docx
+*.zip
+students/
+student-data/
+private-data/
+local-config/
+outputs/private/
+__pycache__/
+*.pyc
